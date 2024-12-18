@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Trabajo de forma independiente<br>📚 Actualmente sigo dedicándome al desarrollo de videojuegos<br>🎯 Metas: Fundar una compañía<br>🎲 Dato curioso: Comencé a programar desde los 13 años</p>
+<p align="left">✨ Trabajo de forma independiente<br>📚 Actualmente sigo dedicándome al desarrollo de videojuegos<br>👀 Me gusta trabajar en la parte lógica y gestionar datos<br>🎯 Metas: Fundar mi propia compañía<br>📫 Correo: torresjhonalber@gmail.com<br>🎲 Dato curioso: Comencé a programar desde los 13 años</p>
 
 ###
 
@@ -39,4 +39,3 @@
 </div>
 
 ###
-
